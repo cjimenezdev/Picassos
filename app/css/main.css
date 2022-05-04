@@ -28,11 +28,6 @@ p {
     margin: 0 !important;
 }
 
-.bg-danger {
-    background: #ac1a1aaf !important;
-    backdrop-filter: blur(20px);
-}
-
 .navbar {
     height: 75px;
     z-index: 4 !important;
