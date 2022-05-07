@@ -2,7 +2,7 @@
 
 ![Sitio web creado con Bootstrap 5](./app/img/logo.png)
 
-Este es el repositorio del sitio web, crado por Carlos Jiménez.
+Este es el repositorio del sitio web, creado por Carlos Jiménez.
 
 ## Archivos del repositorio
 
