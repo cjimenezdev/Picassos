@@ -1,6 +1,6 @@
-# Sitio web creado con Bootstrap 5
+# Sitio web Pequeños Picassos
 
-![Sitio web creado con Bootstrap 5](resources/portada.png)
+![Sitio web creado con Bootstrap 5](./app/img/logo.jpg)
 
 Este es el repositorio para poder seguir el tutorial para [crear un sitio web con Bootstrap 5](https://www.youtube.com/watch?v=ZuOL_DoaG9k).
 
