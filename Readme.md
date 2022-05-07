@@ -20,4 +20,4 @@ Para poder ejecutar el sitio web completo abre el archivo `ìndex.html`.
 
 ## Tutorial en Youtube
 
-Los invito a seguirme en cada una de mis redes sociales oficiales para más contendio y si gustan de mis habilidades pueden contactarse o enviarme un mensaje.
+Los invito a seguirme en cada una de mis redes sociales oficiales y si necesitan algún proyecto pueden contactarme o enviarme un mensaje.
