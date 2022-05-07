@@ -1,27 +1,23 @@
-# Sitio web Pequeños Picassos
+# Pequeños Picassos
 
 ![Sitio web creado con Bootstrap 5](./app/img/logo.png)
 
-Este es el repositorio para poder seguir el tutorial para [crear un sitio web con Bootstrap 5](https://www.youtube.com/watch?v=ZuOL_DoaG9k).
+Este es el repositorio del sitio web, crado por Carlos Jiménez.
 
 ## Archivos del repositorio
 
-Hay dos carpetas en el repositorio
-- Archivos iniciales: los archivos para poder hacer el tutorial desde cero.
-- Ejercicio final: los archivos finales con el sitio web terminado.
+Hay una carpeta (app) en el repositorio
+- En la carpeta (app) contiene 3 subcarpetas en las cuales están los distintos recursos del sitio web. 
 
 ## Instrucciones para ejecutar el sitio web
 
 Clona el proyecto en tu computadora
 
-`git clone https://github.com/marcosrivasr/bootstrap5-website.git`
+`git clone https://github.com/cjimenezdev/Picassos`
 
-Para poder ejecutar el sitio web completo ve a `ejercicio final` y abre el archivo `ìndex.html`.
+Para poder ejecutar el sitio web completo abre el archivo `ìndex.html`.
 
-Para trabajar con los archivos iniciales te recomiendo la extensión de [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer#:~:text=%20Shortcuts%20to%20Start%2FStop%20Server%20%201%20Open,to%20Stop%20the%20server%20%28You%20can...%20More%20)
 
 ## Tutorial en Youtube
 
-[![Primer sitio con Bootstrap](resources/video-portada.jpg)](https://www.youtube.com/watch?v=ZuOL_DoaG9k)
-
-Los invito a ver el tutorial sobre cómo [crear un sitio web con Bootstrap 5](https://www.youtube.com/watch?v=ZuOL_DoaG9k) en el canal de Youtube.
+Los invito a seguirme en cada una de mis redes sociales oficiales para más contendio y si gustan de mis habilidades pueden contactarse o enviarme un mensaje.
