@@ -452,7 +452,7 @@ form h3 {
     }
     .nav-item .nav-link {
         margin: 1rem 0rem !important;
-        padding: 0rem 1rem;
+        padding: 1rem 0rem;
     }
     .navbar-toggler:focus {
         border: 0;
@@ -475,4 +475,3 @@ form h3 {
     }
 }
 
-@media (max-width:750px) {}
