@@ -1,6 +1,6 @@
 # Pequeños Picassos
 
-![Sitio web creado con Bootstrap 5](./app/img/logo.png)
+![Sitio web creado con Bootstrap 5](./img/logo.png)
 
 Este es el repositorio del sitio web, creado por Carlos Jiménez.
 
